@@ -1,2 +1,3 @@
 buildpack-php
 vendor
+heroku-buildpack-php-with-ioncube-master
