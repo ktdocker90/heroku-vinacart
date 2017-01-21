@@ -5,3 +5,7 @@ heroku buildpacks:set https://github.com/ktdocker90/heroku-buildpack-php-vinacar
 git add -A
 git commit -m "commit the change"
 git push heroku master
+
+#_------------
+nginx -t
+/app/.heroku/php/
