@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-nginx --verbose public
+web: vendor/bin/heroku-php-nginx --verbose public/
