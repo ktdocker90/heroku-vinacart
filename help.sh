@@ -5,6 +5,8 @@ git remote add origin https://github.com/ktdocker90/heroku-vinacart.git
 git add -A
 git commit -m "commit the change"
 git push -u origin master
+#ktdocker90
+#code123456837939
 
 #heroku config:set BUILDPACK=""
 heroku buildpacks:set https://github.com/ktdocker90/heroku-buildpack-php-vinacart
